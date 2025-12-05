@@ -31,4 +31,6 @@ try:
         print("Error: Invalid operator.")
 
 except ValueError:
+
     print("Error: Please enter a valid number.")
+    # Update: Added input validation for invalid numbers (December 2025)
